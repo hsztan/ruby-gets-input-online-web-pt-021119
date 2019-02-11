@@ -6,5 +6,5 @@ end
 #   puts "Please enter your name:"
 #   name = gets.chomp
 # end
-# 
+#
 # greeting (get_name)
