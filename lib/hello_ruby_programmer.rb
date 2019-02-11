@@ -3,7 +3,6 @@ def greeting (name)
 end
 
 def get_name
-  let name = ""
   puts "Please enter your name:"
   name = gets.chomp
 end
